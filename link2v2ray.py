@@ -25,7 +25,6 @@ def link2v2ray(url):
         port = int(port)
 
         query = parse_qs(parsed.query)
-        print(query)
 
         streamSettings = {
             "network": query["type"][0],
