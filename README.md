@@ -1,4 +1,4 @@
 # d2ray
 Easy to use, CLI v2ray client 
 ## dependecy
-typer, rich, tinydb
+v2ray, typer, rich, tinydb
